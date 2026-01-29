@@ -25,3 +25,16 @@ blockquote {
 blockquote p {
   margin-bottom: 1rem;
 }
+nav {
+  margin: 1.5rem 0 2.5rem 0;
+  font-size: 0.9rem;
+}
+
+nav a {
+  color: #555;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
